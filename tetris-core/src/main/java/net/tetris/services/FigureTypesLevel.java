@@ -53,3 +53,4 @@ public class FigureTypesLevel implements GameLevel {
         return figureTypesToOpen.length;
     }
 }
+echo();
